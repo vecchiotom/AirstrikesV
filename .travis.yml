@@ -1,4 +1,4 @@
 language: csharp
 solution: AirstrikesV.sln
 install:
-  - nuget restore AirstrikeV.sln
+  - nuget restore AirstrikesV.sln
