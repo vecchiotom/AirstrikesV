@@ -1,6 +1,6 @@
 language: csharp
 script:
-    - xbuild /p:Configuration=Release vMenu.sln
+    - xbuild /p:Configuration=Release AirstrikesV.sln
 notifications:
   webhooks:
     urls:
