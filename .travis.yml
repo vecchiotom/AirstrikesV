@@ -1,5 +1,5 @@
 language: csharp
-mono: none
+mono: latest
 dotnet: 2.1.105
 solution: AirstrikesV.sln
 install:
