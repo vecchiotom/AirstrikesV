@@ -1,6 +1,6 @@
 language: csharp
 mono: none
-dotnet: 4.0.0
+dotnet: 2.1.105
 solution: AirstrikesV.sln
 install:
   - dotnet add package CitizenFX.Core --version 1.3.0
