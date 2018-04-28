@@ -6,8 +6,8 @@ notifications:
     urls:
       - https://skyhook.glitch.me/api/webhooks/439478521732136970/hhXwKKKH0bw4o204agwXbYaxm2E19u8_4VxjTJxL_hnncUKPkAIb-yKFLUx1rPcLeoWn/travis
 install:
-    - apt-get install nuget
-    - nuget install CitizenFX.Core
+    - sudo apt-get install nuget
+    - sudo nuget install CitizenFX.Core
 
 branches:
     only:
