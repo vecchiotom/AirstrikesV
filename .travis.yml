@@ -8,7 +8,6 @@ notifications:
 install:
     - sudo apt-get install nuget
     - sudo nuget install CitizenFX.Core
-
 branches:
     only:
         - master
