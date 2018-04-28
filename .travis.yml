@@ -8,7 +8,7 @@ notifications:
       - https://skyhook.glitch.me/api/webhooks/439478521732136970/hhXwKKKH0bw4o204agwXbYaxm2E19u8_4VxjTJxL_hnncUKPkAIb-yKFLUx1rPcLeoWn/travis
 install:
     - sudo apt-get install nuget
-    - cd /home/travis/build/vecchiotom/AirstrikesV/AirstikesV-Client
+    - cd /home/travis/build/vecchiotom/AirstrikesV/AirstrikesV-Client
     - sudo nuget install CitizenFX.Core
 branches:
     only:
